@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion basics/Recursion basics.iml" filepath="$PROJECT_DIR$/Recursion basics/Recursion basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting Techiniques/Sorting Techiniques.iml" filepath="$PROJECT_DIR$/Sorting Techiniques/Sorting Techiniques.iml" />
       <module fileurl="file://$PROJECT_DIR$/Striver DSA.iml" filepath="$PROJECT_DIR$/Striver DSA.iml" />
     </modules>
   </component>
