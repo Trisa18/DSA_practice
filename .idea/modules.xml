@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion basics/Recursion basics.iml" filepath="$PROJECT_DIR$/Recursion basics/Recursion basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sorting Techiniques/Sorting Techiniques.iml" filepath="$PROJECT_DIR$/Sorting Techiniques/Sorting Techiniques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Striver DSA.iml" filepath="$PROJECT_DIR$/Striver DSA.iml" />
     </modules>
   </component>
